@@ -1,0 +1,5 @@
+define('BASEURL', 'http://penbeasmp1woha.infinityfreeapp.com/public/');
+define('DB_HOST', 'sql102.epizy.com');
+define('DB_USER', 'epiz_30473185');
+define('DB_PASS', 'I98ORv911h');
+define('DB_NAME', 'epiz_30473185_skripsi_nurul');
